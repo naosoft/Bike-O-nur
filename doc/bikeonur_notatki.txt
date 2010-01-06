@@ -1,0 +1,244 @@
+﻿BIKEONUR notatki
+
+cel projektu :D 
+no co najwazniejsze 
+stworzenie platfomy spolecznosciolej dla cyklistow 
+
+* milosnikow wycieczek rowerowych 
+* nie koniecznie dla wyczynowo choc element statystyki tez mozna ujac ... czasy kilometry srednie
+
+* forum
+
+* wszelkie mechanizmy ulatwijace tworzenie spoeczmosci  
+* promocja jazdy rowerowej -» cel
+
+* promocja regionow/miast/rozwiazan przyjaznych rowerowi czyli to na czym mozna zarobic
+
+   * wspolpraca -» sponsoring 
+   * reklamy firm
+
+   * reklamy region miasto itp.
+
+   * program partnerski 
+   * system banerow -» flash jpg 
+   * reklama mobilna -» na urzadzeniu co jakis czas
+
+nie robiec komerchy na sile ... to ma byc potrzebne ... a jak bedzie potrzene 
+to bedzie zarabic   
+
+jakie rzeczy ma zawierac 
+
+a) podstawa czyli profil uztkowinika
+   a na nim standart to co jest zawsze na takim profilu 
+   rzecz ktorej nie ma w standarcie to "profil" roweru lub rowerow 
+   opis czym nasz uzytkownik hasa po drogach i bezdrorzacha
+   polski i swiata :D 
+
+   warto pomyslec o podejsciu globalnym to znaczy integracij 
+   z gooogele facebookem myspace 
+ 
+
+   i jeszcze jedno trohe polechtac proznosc ludzka nigdy nie zawadzi :D prosty systemik 
+   statystyk ile kilometow i w jakim czasie kiedy + wylicznie srednie i takie tam duperele 
+   ha i dac to jako widget lol tojeto :D
+
+
+b) trasy czyli to co stanowic ma istote portalu ... trasa w tym pojeciu jest elementem
+   wiazacym pozostaly conten (uzytkownik moze miec wiele tras, wspoluczestniczyc w tworzeniu 
+   innych lub byc poprostu obserwatorem - dodac do ulubionych itp) 
+
+   trasa jako taka to poprostu wiki (wlasciel mozne zapraszac do wspoltworzenia inne osoby) 
+   wiki to zadadzie glowny opis trasy moze zawierac zdjecia czy odniesienia do mapy  to juz zalezy co 
+   komu sie spodoba ... mozne nawet sowawac filmiki z youtube .. 
+  
+   zianan koncepci 
+   nie ma sensu budwac wiki .. nie jest to wymagane ... sam opis trasy bedzie poprostu 
+   zwyczajnym artykulem .. bedzie co prawda posiadal achiwom ale nie bedzie dzialac na 
+   jedynie po to by ulatwic wprwadzanie i cofanie zmian ... dla ulatniema
+
+   inni zalogowanii uzytkownicy beda mogli zglaszac swoiwe uwagi za posrednictwe odpowiedniej 
+   opcij np "zglos uwage"
+
+   sam artykol bedzie posiadak mechanizm kometowania ... kometaze widocze po rozwiniecoi odpowidniego boxa 
+
+
+    zaproszeni ludzie beda mogli jedynie dodawac notki 
+
+    do kazdgo opisu mamy cos wpostaci postow ... hmm relacje z trasy notki 
+    mozne zawierac odniesienie do galerii filmik z youtube itp  itp
+    moze trzeba by ograniczyc jego dludosc ....  
+   
+   (koniecznie mozliwosc dodawania za pomoca urzadznien mobilnych konicznie :D) 
+ 
+  oczywiscie kazy zalogowany uzytkownik moze zostawic  kometarz 
+  trzeba pomyslec jak to umozliwic droga mobilna - np jesli uzytkownik ma dana trase dodana do ulubionych 
+  mozne ja szyblko zkomentowac ... jak wyzej to musi zyc -» kometarze beda do poszegolnych notek nie do calosci jakotakiej 
+  kometarze jak to zostalo wyzej wspomniane nie beda widoczen ... bedzie mozen je przeczytac po rozwinieciu boxa
+
+  uporzatkowojac:
+  jest jeden glowny opis trasy zjadujacy sie na gorze strony; jest to zwykly atykow ktorego moze edytowac tylko osoba zakladajaca
+  dana trasie
+  kazdy zalogowany moze zglaszac uwagi
+  kazdy zalogowany user moze kometowac trasie -» komentarze nie sa widoczne moze je przejze c po rozwinienciust odpowiednigo boxa
+ 
+   userzy zaproszeni do spoltorzenia danej trasy maga zostawiac notki ....   (dziala to zna zasadzie nini bloga?) notka nie ma historii jet mozeliwosc
+   edycji notki
+   kazty zalogowany moze komentowac notke ... mechanizm taki sam jak w przypatku opisy
+
+
+  na stronie trasy bedzie pokazywane standartowo po 5 ostanich notek i 5 kometarzy ... pytanie 
+  czy dac wiecej ... ustawienia uzytkowinia moze 
+
+c) galeria ... jest to w zasadzie modul niezalezy ... kazdy uzytkownik ma galerie 
+   w galerii sa nastepujce podstawowe kategorie 
+    - profil -» galeria roweru 
+    - trasa -» galeria trasy 
+    - wydarzenie -»meta galeria
+    - moderacja modulu wydarzen -» dadac do administracji
+    
+    swoimi funkcjonalnosciami nie powinna obiegac od przyjetych standartow 
+    inna sprawa to galerie zewnerze ... np picassa -» przydalo by sie umozeliw tak integracjie 
+    choc to kompikuje logike aplikacji ale moze byc ciekawe dla uzytkownika ... i odciaza ewetulnie masz serwer
+    bo nic tak nie nabija downloadu jak zdjecie a to jest zawsze ogrniczone przez firmy hostingowe
+  
+         - picassa i fliker trzeba nedzie pozmac api 
+
+d) wydarzenia ... uzytkownicy moga proponowac wydarzenia
+
+      *  spotkanie 
+      *  rajd rowewy 
+      *  wycieczka 
+      *  itp cos co chce zrobic wspolnie 
+
+
+ wydazenie sladac sie bedzie z opisu, listy uczestnikow (uztkownik moze sie zapisac na taka  umiejscowienia ram czasowych kometarzy ... graleri 
+   ( w zasadzie mozna do tego wykorzystac mechanizm trasy ... wydzielenie modulu wiki miniblog i kometarzt 
+   zeby skaldac to jak klocki) 
+   mozna na przyklad zitegrowac z google caleder i google doc ... to moze ulatwic kilka spraw 
+
+
+e) zaproszenie itp 
+   jesli uzytkownik chce uczestniczyc w rozwoju danej profilu danej trasy mozne poprosic o 
+   dolaczenie go do listy uzytkownikow wspolpracujacych nad dana trasa --» wlascicie danego profilu moze dopusic danego uzytkownika 
+   do edycji na 2 poziomach 
+   - pelna edycja ... moze proponowac nowe opis itp 
+   - moze tylko dodawac notki   
+
+   --problem zlozony trzeba sie zastanowic--
+ 
+
+f) komunikacja ... mozna rozwiazac to integujac serwis z czyms co juz jest na przyklad z google weve ... moze dac duzo ciekawych 
+   mozliwosci ... taka uwaga ogolna trzeba stawiac na integracje z innymi serwisami ... duzymi ... to moze znacznie ulatwic 
+  pozyskiwanie uzytkownikow choc zmiwksza jak to wczesniej napisalem logike aplikacji
+
+
+g) mapa ... podstawa google ale nie nalezy olewac innych rozwizau ... hmm mozna sie podpic pod projekt open sourceowej mapy 
+   i niech uzytkownicy szaleja ... wazna sprawa import danych z urzadzie GPS do mapy ... ludzie maja takie cacka nie ch szaleja 
+
+integracja z innymi serwisami powinna byc 2stronna ... w bikeonurze to co mozna i jest sensowne z innych servisow a i buike tez dla innych 
+a co my gorsi :D w zasadzie jest sens podlaczas sie jedynei do wielkiek trojki gooogle myspace i facebook  + fliker zdjeca na poczatek
+dostep dla innych serwisow na zasadziem mikroapkikacji, wtyczek, widgetow
+
+
+
+FORUM 
+co zronic z tym fantem : poszugac gotowca i zitegrowc .... wlasnie zitegrowac czyli napisac od nowa lol :D 
+a konlretnie chodzi o to by mozna powiazac posty z wiki tras 
+osobna aplikacja  -» tematyka powiazana z bn ale nie dunlujaca
+
+import i export danych 
+powinno sie umoliwic latwy import/export danych 
+
+zasada jednego klikniecia .. :D jesli sie da stosowac ... uzytkownik zeby sie dodac do lity czy zglosc sie do wspolpracy powiniwn
+tylko raz kliknac i z glowy  mmm moze jednak powiadoeminia z zaputaniem powunno sie pojawic (layoutcie trzeba przewidzic tzw
+przestrzenie powiadamiania)
+
+
+
+
+Urzadzenia mobile
+
+itegracja na dwa sposoby 
+aplikacja - trudniejsza ale moze byc zyskowana (appstore czy nokia ovi i google app) 
+web tansza i wzasadzie odrazu 
+urzadznia raczej z systemowe ... sybian/moeno iphoneos android ... windows mobile
+ 
+
+
+taka mała uwaga do urządzeni mobilnych jest  
+
+
+fazy uruchamiania serwisu
+faza alfa 
+system juz na sewerze z podstawowa funkcjonalnoscia
+User Space
+
+      * logowanie 
+      * profile (pelne ) uzytkownika 
+      * modyfikacja profili 
+      * upload plikow graficznych 
+
+Social Space
+
+      * trozenie wspolnego opisu tras 
+      * dodawanie tras -» zglaszanie uwag 
+      * modyfikacja -» tylko user wlasciciel 
+      * dodawanie notek -» zaproszeni 
+      * dodawanie kometarzy 
+      * dodawanie miejsc na map 
+      * galeria z linkowaniem 
+      * mapa 
+      * zdarzenia : powiekszanie iterakcji miedzy userami a w zasadzie generowanie zdarzeni miedzy grupami userow
+
+      * ankiety -» przydatny przy zadrzeniach  
+
+Admin
+
+         * system zarządzania użytkownikami 
+            * blokuj 
+            * usuń 
+            * statystyki (ale to później)   
+
+system zaproszeni do wspolpracy (prosta komunikacja miedzy urzytkownikami)
+komunikaja meilowa ... user «-»system potrzebna do utworzenia nowego konta ... i w dalszej fazie rozwoju palikaji
+czesciowy layout
+  
+dodac mechanim administracyjny ....
+
+zaczadzanie userami (zawiesznie, owieszanie kasowanie itp)
+system rotacji banerow raklamowych
+system zarzadzania eventami
+
+
+technologia ralaizacji ror...
+baza python / posgresql -» prosta baza jeden space (inne przestrzenie dla skryptow pgsql )
+z czasem migracja na platforme java
+ 
+ 
+
+TODO
+    przygotowac css i tmp pod bikeonur
+    podpiac do strony
+    projekt rails
+    repo w git
+       
+
+beta 1 
+
+beta 2
+
+open version
+
+
+layuot 
+layuot powinien byc nawizywac do nazwy bikeonur -» baikonur .... czyli rosyjski port kosmiczny ... powinien nawizaywac do
+tego klimatu ... lekko ale powiniecn to wymaga jeszcze dyskusji ...
+
+logo jest :D
+note :
+    projekt bedzie zrealizowany bedzie w rails .... 
+    wazna rzecz grafika powinna byc obslugiwana przez warstwe posrednia 
+    w przyszlosci przeniesc na platforme java lub cos takiego
+    do znudznienia mblie noblie moblie  
+
+Linki -» czytleny url
