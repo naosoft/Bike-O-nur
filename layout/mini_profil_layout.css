@@ -1,0 +1,33 @@
+
+#mini_foto_box {
+  height:80px;
+  width:80px;
+  border:1px red solid;
+  margin:auto;
+}
+
+#button_left {
+ height:20px;
+  width:50px;
+  margin-left:5px;
+  margin-top:2px;
+  border:1px red solid;
+  float:left
+}
+
+#button_right {
+  height:20px;
+  width:50px;
+  margin-left:5px;
+  margin-top:2px;
+  border:1px red solid;
+  float:left;
+}
+
+#button_big  {
+
+  width:100px;
+  height:20px;
+  border:1px red solid;
+
+}

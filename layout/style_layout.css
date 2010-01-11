@@ -1,0 +1,58 @@
+/* kontener okaljacy*/
+#hiperspace {
+  width:1200px;
+  margin:auto;
+  background:red;
+}
+
+/*glowny kontener*/
+#main_contener {
+  margin:auto;
+  width:1000px;
+  height:500px;
+  background:#cfcfcf;
+}
+
+/*naglowek*/
+#header_contener {
+  height:120;
+  background:#cccccc;
+  border-bottom:1px black solid;
+}
+
+
+/*logo*/
+#logo_box{
+  width: 300px;
+  height:120;
+  border-right:1px black solid;
+  float:left;  
+}
+
+/**/
+#space_box {
+  width: 577px;
+  height:120;
+  border-right:1px black solid;
+  float:left; 
+}
+
+/* mini profil box*/
+#mini_prof_box {
+  width: 120px;
+  height:120;
+  float:left; 
+}
+
+/* ---------------------------- */
+#main_menu_contener { 
+  height:20px;
+  border-bottom : 1px black solid;
+}
+
+#floor_contener { 
+ height:25px;
+ border-bottom : 1px black solid;
+
+}
+
