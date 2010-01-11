@@ -1,0 +1,6 @@
+<%#
+# To change this template, choose Tools | Templates
+# and open the template in the editor.
+%>
+<p id="head"> Witamy w BIKE'O'NUR </p>
+<%= link_to "urzutkownicy" , {:controller=> "users", :action => "index"}, {:class => "link"}%>

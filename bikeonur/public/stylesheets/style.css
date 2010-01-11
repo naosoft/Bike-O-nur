@@ -1,0 +1,265 @@
+body {
+  font-family:sans-serif;
+  margin:auto;
+  width:1000px;
+  border: 1px solid #cfcfcf; 
+}
+
+.header {
+  height :100px;
+  border-bottom: 1px solid #cfcfcf; 
+}
+.main {
+ 
+  border-bottom: 1px solid #cfcfcf; 
+  /*background-color:#eeeeee;*/
+  background-color:#88aa00;
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+.footer{
+  height:30px;
+  background-color:#d8eff8;
+
+}
+#flash_msg {
+   border: 1px solid green;
+   padding: 1em;
+   margin: 1em;
+   margin-bottom: 2em;
+   background-color: #fcfcfc;
+   font: bold smaller sans-serif;
+    
+}
+
+#login_link {
+    text-align:right;
+}
+
+#nav {
+   font-size: 11px;
+
+  color:#0099cc;
+  font-weight: bold;
+}
+
+.head {
+  color: maroon;
+  font-size:24px;
+  text-decoration:none;
+  font-weight: 900;
+  font-family:Verdana;
+
+}
+.box {
+    padding:0.25em;
+}
+.lines {
+  margin-bottom:5px;
+  padding: 2px;
+
+  border-top:1px solid;
+  border-bottom:1px solid;
+  border-color:#cccccc;
+  background-color:#eeeeee;
+}
+
+.line {
+  padding:2px;
+  margin-bottom:2px;
+  background-color:#d8eff8;
+}
+
+.line_green {
+  padding:2px;
+  margin-bottom:2px;
+  background-color:#add400;
+  border-top: #688000  1px solid ;
+  border-bottom:  #688000 1px solid ;
+}
+
+.link {
+  font-size: 12px;
+  color:#22280b;
+  font-weight: bold;
+}
+
+legend {
+  font-size: 14px;
+  color:#22280b;
+  font-weight: bold;
+  background-color:#bcd35f;
+;
+  padding:2px;
+
+}
+
+fieldset {
+  margin-bottom:5px;
+  border:1px solid;
+  border-color: #bcd35f;
+  /*border-color: #cccccc;*/
+}
+
+
+.button_orange {
+   padding-left:2px;
+   padding-right:2px;
+   border:0px;
+   font-size: 12px;
+   text-decoration:none;
+   background-color:#e95d0f;
+   color: #ffffff;
+   font-weight: bold;
+
+
+}
+
+.button_green {
+   padding-left:2px;
+   padding-right:2px;
+   border:0px;
+   font-size: 12px;
+   text-decoration:none;
+   background-color:#ADFF2F;
+   color: #22280b;
+   font-weight: bold;
+}
+
+
+.button_blue {
+    padding-left:2px;
+   padding-right:2px;
+   border:0px;
+   font-size: 12px;
+   text-decoration:none;
+   background-color:#6bbff8;
+   color: #ffffff;
+   font-weight: bold;
+}
+
+.opt_orange {
+   padding-left:2px;
+   padding-right:2px;
+   font-size: 10px;
+   text-decoration:none;
+   background-color:#e95d0f;
+   color: #ffffff;
+   font-weight: bold;
+}
+
+.opt_green {
+   padding-left:2px;
+   padding-right:2px;
+   font-size: 10px;
+   text-decoration:none;
+   background-color:#ADFF2F;
+   color: #22280b;
+   font-weight: bold;
+}
+
+.opt_blue {
+   padding-left:2px;
+   padding-right:2px;
+   font-size: 10px;
+   text-decoration:none;
+   background-color:#6bbff8;
+   color: #ffffff;
+   font-weight: bold;
+}
+
+label {
+  font-size: 12px;
+  color:#22280b;
+  font-weight: bold;
+  padding:2px;
+}
+
+
+input{
+    margin:3px;
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+    background-color:#cccccc;
+    border:#22280b 1px solid;
+}
+ input:focus {
+    background-color:#eeeeee;
+    border-color:#000000;
+}
+
+textarea {
+  background-image:url('input.png');
+  width:400px;
+  height:200px;
+  line-height:20px;
+  color: #22280b;
+  font-weight: 600;
+  border:solid 1px #333333
+}
+#errorExplanation {
+    border: 2px solid red;
+    padding: 7px;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+}
+
+#errorExplanation h2 {
+    text-align: left;
+    font-size: 12pt;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    background-color: #c00;
+    color: #fff;
+}
+
+#errorExplanation p {
+    color: #333;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+#errorExplanation ul li {
+    font-size : 10pt;
+    list-style : square;
+}
+/*debug*/
+.debung_dump {
+    text-align: left;
+    font-size: 12px;
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+    background: #ccc;
+    margin: 0;
+    padding: 0.5em;
+}
+
+/* layout panelu logowanie i rejestracji*/
+.box_login {
+  width:300px;
+  margin:auto;
+  margin-top:100px;
+  margin-bottom:100px;
+  padding:10px;
+  background-color:#eeeeee;
+}
+
+.out_layout {
+  margin-top:50px;
+}
+
+.info {
+    padding:1px;
+    font-size:10px;
+    font-weight:900;
+    color: #e95d0f;
+    background-color:#ADFF2F;
+}
+
+.wiki_show {
+    width: 200px;
+    border: 1px #000 dashed;
+
+      background-image:url('input.png');
+}
