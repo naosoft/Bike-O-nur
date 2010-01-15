@@ -1,12 +1,20 @@
 body {
+  background: #ff6000 url(bgx.png) repeat-x;
+
+}
+
+#superContener {
   font-family:sans-serif;
   margin:auto;
   width:1000px;
-  border: 1px solid #cfcfcf; 
+  border: 3px solid #fff; 
+  background-color:#88aa00; 
+
 }
 
 .header {
   height :100px;
+  background-color:#88aa00; 
   border-bottom: 1px solid #cfcfcf; 
 }
 .main {
@@ -19,7 +27,7 @@ body {
 
 .footer{
   height:30px;
-  background-color:#d8eff8;
+  background-color:#88aa00;
 
 }
 #flash_msg {
@@ -39,7 +47,7 @@ body {
 #nav {
    font-size: 11px;
 
-  color:#0099cc;
+  color:#241f1c;
   font-weight: bold;
 }
 
@@ -61,13 +69,13 @@ body {
   border-top:1px solid;
   border-bottom:1px solid;
   border-color:#cccccc;
-  background-color:#eeeeee;
+
 }
 
 .line {
   padding:2px;
   margin-bottom:2px;
-  background-color:#d8eff8;
+  background-color:#88aa00; 
 }
 
 .line_green {

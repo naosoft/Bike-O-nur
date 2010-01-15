@@ -1,0 +1,38 @@
+/* =reset & global
+============================================================================ */
+
+
+
+
+html, body, div, p, ul, li {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+body { 
+	font: 80% "Lucida Sans Unicode", "Lucida Grande", Geneva, Verdana, sans-serif; 
+	background: #ff6000 url(bgx.png) repeat-x;
+}
+li { margin-left: 20px; }
+
+div.copy {
+	float: left;
+	margin: 70px 13px 0;
+	opacity: 0.65;
+	padding: 30px;
+}
+
+div.copy:hover {
+	opacity: 0.9999;
+}
+
+a, a:visited {
+	color: #00a;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+
+a:hover, a:focus {
+	border-bottom-style: solid;
+}
