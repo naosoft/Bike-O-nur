@@ -15,9 +15,9 @@
                     <%= link_to "login", {:controller=>"users",  :action=>"login"},{:class=>"opt_orange"} %>
                     <%= link_to "register",{:controller=>"users",:action=>"register"},{:class=>"opt_orange"} %>
                     <%else %>
-                    <%= mini_profil %>
+                   
                     <br>
-                    <%= link_to "loginout", {:controller=>"users", :action=>"loginout"},{:class=>"opt_blue"} %>
+                    <%= link_to "Wyloguj", {:controller=>"users", :action=>"logout"},{:class=>"opt_blue"} %>
                     <%end %>
                 </div>
                 <div class="header">
